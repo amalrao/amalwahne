@@ -6,9 +6,9 @@ Currently building skills in **SQL, Python (Pandas), Excel, and Power BI** throu
 ---
 
 ## 🔹 Skills
-- **Languages:** SQL, Python (Pandas, Matplotlib),Html,css,javascript
-- **Tools:**  Excel, Google Sheets
-- **Core Areas:** Data Cleaning, Analysis, Visualization, Dashboa
+- **Languages:** Python,Html,Css,Javascipt,Mysql,Numpy,pandas,matplotlib
+- **Tools:**  VS code,jupyter Notebook,Excel,Google Sheets
+- **Core Areas:** Data Cleaning, Analysis, Visualization
 
 ---
 
