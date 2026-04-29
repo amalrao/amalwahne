@@ -6,23 +6,19 @@ Currently building skills in **SQL, Python (Pandas), Excel, and Power BI** throu
 ---
 
 ## 🔹 Skills
-- **Languages:** SQL, Python (Pandas, Matplotlib)
-- **Tools:** Power BI, Excel, Google Sheets
-- **Core Areas:** Data Cleaning, Analysis, Visualization, Dashboarding
+- **Languages:** SQL, Python (Pandas, Matplotlib),Html,css,javascript
+- **Tools:**  Excel, Google Sheets
+- **Core Areas:** Data Cleaning, Analysis, Visualization, Dashboa
 
 ---
 
-## 📂 Featured Projects (Coming Soon)
-- **Sales Insights (SQL)** – [GitHub Link]
-- **COVID Data Tracker (Python)** – [GitHub Link]
-- **Retail Dashboard (Power BI)** – [GitHub Link]
+## 📂 Featured Projects 
 
 ---
 
 ## 📜 Certificates (In Progress)
 - Kaggle – Intro to SQL  
 - IBM SkillsBuild – Data Analysis with Python  
-- Microsoft – Power BI Fundamentals
 
 ---
 
