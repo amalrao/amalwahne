@@ -1,22 +1,23 @@
-# Hi, I'm Amal Wahne 👋
-
+# Hi, I'm Amal Rao 👋
 
 ---
 
 ## 🔹 Skills
+
 - **Languages:** Python,Html,Css,Javascipt,Mysql,Numpy,pandas,matplotlib
-- **Tools:**  VS code,jupyter Notebook,Excel,Google Sheets
+- **Tools:** VS code,jupyter Notebook,Excel,Google Sheets
 - **Core Areas:** Data Cleaning, Analysis, Visualization
 
 ---
 
-## 📂 Featured Projects 
+## 📂 Featured Projects
 
 ---
 
 ## 📜 Certificates (In Progress)
-- Kaggle – Intro to SQL  
-- IBM SkillsBuild – Data Analysis with Python  
+
+- Kaggle – Intro to SQL
+- IBM SkillsBuild – Data Analysis with Python
 
 ---
 
