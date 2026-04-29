@@ -1,7 +1,5 @@
 # Hi, I'm Amal Wahne 👋
 
-**Aspiring Data Analyst** passionate about turning raw data into actionable insights.  
-Currently building skills in **SQL, Python (Pandas), Excel, and Power BI** through real-world projects.
 
 ---
 
